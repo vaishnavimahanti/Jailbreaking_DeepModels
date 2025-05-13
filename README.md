@@ -2,16 +2,16 @@
 
 This is the project respository for team Attackers - Vaishnavi Mahanti, Nidhi Donuru, Rithvik Peeriga
 
-### Install Libraries
-
+### Libraries
+pip install torch torchvision numpy matplotlib pillow
 
 
 ### Final Model
-It's at `jailbreaking_adversarial_attacks`
+It's at `jailbreaking_adversarial_attacks.ipynb`
 
 #### Evaluation Summary:
 
-### Top-1 and Top-5 Accuracy
+##### Top-1 and Top-5 Accuracy
 
 | Model              | Attack Type | Top-1 Accuracy | Top-5 Accuracy |
 |-------------------|-------------|----------------|----------------|
